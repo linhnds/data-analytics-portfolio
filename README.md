@@ -20,7 +20,7 @@ It’s time to work on predicting the taxi fare amounts. We are ready to build t
 Our client, the New York City Taxi & Limousine Commission (New York City TLC), has requested that I build a machine learning model to predict if a customer will not leave a tip. They want to use the model in an app that will alert taxi drivers to customers who are unlikely to tip since drivers depend on tips.
 * [Executive Summary](https://github.com/linhnds/data-analytics-portfolio/blob/main/automatidata_executive-summary.pdf)
 
-## 👔 [Salifort Motors](https://github.com/linhnds/data-analytics-portfolio/blob/main/salifort-motors.ipynb)
+## 👔 [Salifort Motors](https://github.com/linhnds/data-analytics-portfolio/blob/main/salifort_motors.ipynb)
 In this project, my goals are to analyze the data collected by the HR department and to build a model that predicts whether or not an employee will leave the company.
 * [Project Proposal](https://github.com/linhnds/data-analytics-portfolio/blob/main/salifort-motors_project-proposal.pdf)
 * [Executive Summary](https://github.com/linhnds/data-analytics-portfolio/blob/main/salifort-motors_executive-summary.pdf)
