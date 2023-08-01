@@ -1,6 +1,6 @@
 # 🌟 Data Analytics Portfolio 🌟
 
-Hello, I'm Linh Nguyen. In this portfolio, I include the projects I practiced in various courses. There are also other personal projects which I explored in my free time.
+Hello, I'm Linh Nguyen. In this portfolio, I include the projects I practiced in various courses. There are also other personal projects which I explored with curiosity.
 
 ## 🚖 Automatidata
 
