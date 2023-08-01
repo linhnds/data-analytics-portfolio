@@ -4,7 +4,7 @@ Hello, I'm Linh Nguyen. In this portfolio, I include the projects I practiced in
 
 ## 🚖 Automatidata
 
-#### [Identify data types and relevant variables using Python](https://github.com/linhnds/data-analytics-portfolio/blob/main/automatidata_1_start_python.ipynb)
+#### [Identify data types and relevant variables using Python](automatidata_1_start_python.ipynb)
 To get clear insights, New York TLC's data must be analyzed, key variables identified, and the dataset ensured it is ready for analysis.
 
 #### [Exploratory Data Analysis](https://github.com/linhnds/data-analytics-portfolio/blob/main/automatidata_2_eda.ipynb)
