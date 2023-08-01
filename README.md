@@ -24,3 +24,6 @@ Our client, the New York City Taxi & Limousine Commission (New York City TLC), h
 In this project, my goals are to analyze the data collected by the HR department and to build a model that predicts whether or not an employee will leave the company.
 * [Project Proposal](https://github.com/linhnds/data-analytics-portfolio/blob/main/salifort-motors_project-proposal.pdf)
 * [Executive Summary](https://github.com/linhnds/data-analytics-portfolio/blob/main/salifort-motors_executive-summary.pdf)
+
+## 🚀 [Space Mission](https://github.com/linhnds/data-analytics-portfolio/blob/main/space_mission.ipynb)
+An incredibly rich dataset from [nextspaceflight.com](https://nextspaceflight.com/launches/past/?page=1) that includes all the space missions since the beginning of Space Race between the USA and the Soviet Union in 1957! It has data on the mission status (success/failure), the cost of the mission, the number of launches per country, and much much more.
